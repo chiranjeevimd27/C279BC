@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=chiranjeevimd27)
 [![Github](https://img.shields.io/github/followers/chiranjeevimd27?label=Follow&style=social)](https://github.com/chiranjeevimd27)
-![BANNER](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsoftware-too-important-left-programmers-what-ahmed-abdelrazek&psig=AOvVaw3SCbogQ_GopY3NWF5rj-Tc&ust=1734006622135000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMitt5_cn4oDFQAAAAAdAAAAABAZ)
-
+<div align="center">
+  <img height="200" src=""  />
+</div>
 <h1 align="center">Hiii🙏🏻, I'm Chiranjeevi M D</h1>
 
 ###
