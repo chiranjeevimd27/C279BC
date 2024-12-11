@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=chiranjeevimd27)
 [![Github](https://img.shields.io/github/followers/chiranjeevimd27?label=Follow&style=social)](https://github.com/chiranjeevimd27)
 <div align="center">
-  <img height="300" width="800" src="https://github.com/chiranjeevimd27/C279BC/blob/main/DALL%C2%B7E%202024-12-11%2017.42.40%20-%20A%20minimalist%20typographic%20design%20with%20a%20black%20background.%20The%20central%20focus%20is%20the%20phrase%20'multi-disciplinary%20developer'%20in%20bold%2C%20clean%2C%20white%20text%20wit.webp"  />
+  <img height="300" width="800" src="https://github.com/chiranjeevimd27/C279BC/blob/main/WhatsApp%20Image%202024-12-11%20at%206.52.29%20PM.jpeg"  />
 </div>
 <h1 align="center">Hiii🙏🏻, I'm Chiranjeevi M D</h1>
 
@@ -68,6 +68,10 @@ const chirumd = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/chiranjeevimd27/chiranjeevimd27/output/snake.svg" alt="Snake animation" />
 
 ###
 
