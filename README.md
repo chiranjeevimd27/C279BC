@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=chiranjeevimd27)
+[![Github](https://img.shields.io/github/followers/chiranjeevimd27?label=Follow&style=social)](https://github.com/chiranjeevimd27)
+![Multi-Disciplinary Developer](https://your-repository-link/image-name.webp)
+
+
 <h1 align="center">Hiii🙏🏻, I'm Chiranjeevi M D</h1>
 
 ###
