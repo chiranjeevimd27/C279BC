@@ -29,6 +29,8 @@ const chirumd = {
 ```
 ###
 
+<h3 align="left">Languages and Tools:</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -71,10 +73,7 @@ const chirumd = {
 
 ###
 
-<img src="https://raw.githubusercontent.com/chiranjeevimd27/chiranjeevimd27/output/snake.svg" alt="Snake animation" />
-
-###
-
+<h3 align="left">Socials:</h3>
 <div align="left">
   <a href="chiranjeevimd49@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -93,6 +92,24 @@ const chirumd = {
 
 ###
 
+###
+
+<a href='https://github.com/ghsharma/'>
+<div align='center'>
+<img src='https://github.com/ghsharma/ghsharma/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiranjeevimd27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjeevimd27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">🚀 Current Focus<br>- 🌐 Building robust web applications with seamless user experiences.<br>- 🧠 Exploring innovative solutions in cybersecurity and automation.<br>- 🚀 Growing my startup into a scalable and successful venture.</p>
 
 ###
@@ -104,3 +121,10 @@ const chirumd = {
 <p align="left">📫 Let's Connect!<br>- Portfolio Website : https://chiranjeevimd27.github.io/Portfolio.github.io/<br>- LinkedIn : https://www.linkedin.com/in/chiranjeevi-m-d-02714b21b<br>- Email : chiranjeevimd49@gmail.com</p>
 
 ###
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+###
+## 🏆 GitHub Trophies
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=chiranjeevimd27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<div>
+
