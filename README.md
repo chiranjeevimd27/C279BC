@@ -92,6 +92,6 @@ const chirumd = {
 
 ###
 
-<p align="left">📫 Let's Connect!<br>- Portfolio Website : https://chiranjeevimd27.github.io/Portfolio.github.io/<br>- LinkedIn : https://www.linkedin.com/in/chiranjeevi-m-d-02714b21b<br>- Email : chiranjeevimd49.com</p>
+<p align="left">📫 Let's Connect!<br>- Portfolio Website : https://chiranjeevimd27.github.io/Portfolio.github.io/<br>- LinkedIn : https://www.linkedin.com/in/chiranjeevi-m-d-02714b21b<br>- Email : chiranjeevimd49@gmail.com</p>
 
 ###
